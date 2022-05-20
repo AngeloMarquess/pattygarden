@@ -1,0 +1,53 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /
+"   Sorted by exten
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+/
+| boot/
+| dev/
+| etc/
+| home/
+| | aneglo/
+| | | .asdf/
+| | | .bundle/
+| | | .cache/
+| | | .landscape/
+| | | .local/
+| | | .npm/
+| | | .vim/
+| | | projects/
+| | | .bash_history
+| | | .bash_logout
+| | | .bashrc
+| | | .gitconfig
+| | | .irb_history
+| | | .motd_shown
+| | | .profile
+| | | .sudo_as_admin_successful
+| | | .tool-versions
+| | | .yarnrc
+| | angelo/
+| | angelo2/
+| lost+found/
+| media/
+| mnt/
+| opt/
+| proc/
+| root/
+| run/
+| snap/
+| srv/
+| sys/
+| tmp/
+| usr/
+| var/
+| bin@	 --> usr/bin
+| init*
+| lib32@	 --> usr/lib32
+| lib64@	 --> usr/lib64
+| lib@	 --> usr/lib
+| libx32@	 --> usr/libx32
+| sbin@	 --> usr/sbin
